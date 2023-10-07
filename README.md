@@ -15,6 +15,6 @@
 - Momentum trading (Capitalise on existing price trends by focusing on strong recent performance)
 
 ## Ideas:
-- Sentiment analysys
-  Financial News Dataset: ![https://huggingface.co/datasets/Jean-Baptiste/financial_news_sentiment]
-- 
+Sentiment analysys:
+  - Financial News Dataset: https://huggingface.co/datasets/Jean-Baptiste/financial_news_sentiment
+  
