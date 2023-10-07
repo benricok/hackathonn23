@@ -19,4 +19,5 @@
 ## Ideas:
 Sentiment analysys:
   - Financial News Dataset: https://huggingface.co/datasets/Jean-Baptiste/financial_news_sentiment
+  - Sentiment Economy News: https://huggingface.co/datasets/MoritzLaurer/sentiment_economy_news
   
