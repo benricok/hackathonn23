@@ -25,12 +25,9 @@ for post in feed.entries:
     dates.append(datetime.strptime(date, '%a, %d %b %Y %X %Z').date())
     #dates.append(datetime.strptime(date, '%c %Z').date())
 
-data = {'Title': titles,
-        'Date': dates}
-
 print(dates)
 
-df = pd.DataFrame(data)
+df = pd.DataFrame({'Title': titles,'Date': pd.to_datetime(dates)})
 
 df.info()
-df.tail()
+print(df.tail())
