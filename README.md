@@ -1,5 +1,7 @@
 # Hackathon '23: Byte Busters
 
+<img src="https://github.com/benricok/hackathonn23/blob/4442bc43b9e1a360f8583a0b4aedbe67d4660b44/img/flowchart.png">
+
 ## Important for evauation:
 - Drawdown - understanding the risk of the stratagy
   A percentage from a high point to a low point until recovery
