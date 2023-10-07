@@ -30,4 +30,4 @@ print(dates)
 df = pd.DataFrame({'Title': titles,'Date': pd.to_datetime(dates)})
 
 df.info()
-print(df.tail())
+print(df)
