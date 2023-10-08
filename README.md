@@ -1,6 +1,6 @@
 # Hackathon '23: Byte Busters
 
-<img src="https://github.com/benricok/hackathonn23/blob/4442bc43b9e1a360f8583a0b4aedbe67d4660b44/img/flowchart.png">
+<img src="https://github.com/benricok/hackathonn23/blob/3d05123fcfdbd462b5ce20b86ef0afe04e96c3b6/img/updated%20flowchart.png">
 
 ## Important for evauation:
 - Drawdown - understanding the risk of the stratagy
